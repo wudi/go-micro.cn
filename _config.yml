@@ -1,1 +1,11 @@
-theme: jekyll-theme-hacker
+remote_theme: pmarsceill/just-the-docs
+
+markdown: kramdown
+lang: zh-ch
+domain: go-micro.cn
+title: Go Micro 中文网
+
+google_font_family: Titillium+Web:300,400,600,700|Open+Sans:300,400,600,700
+
+plugins:
+  - jekyll-seo-tag
